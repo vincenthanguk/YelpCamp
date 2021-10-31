@@ -28,16 +28,16 @@ const seedDB = async () => {
       price,
       images: [
         {
-          url: 'https://res.cloudinary.com/dkcsp1ola/image/upload/v1635668329/YelpCamp/i5boytuurvmitvlketag.jpg',
-          filename: 'YelpCamp/i5boytuurvmitvlketag',
+          url: 'https://res.cloudinary.com/dkcsp1ola/image/upload/v1635697259/YelpCamp/emcgbajp0ob4bv1xuvkv.jpg',
+          filename: 'YelpCamp/emcgbajp0ob4bv1xuvkv',
         },
         {
-          url: 'https://res.cloudinary.com/dkcsp1ola/image/upload/v1635668333/YelpCamp/im42gtvp2dcua9xjpjzp.jpg',
-          filename: 'YelpCamp/im42gtvp2dcua9xjpjzp',
+          url: 'https://res.cloudinary.com/dkcsp1ola/image/upload/v1635670761/YelpCamp/dsjybyutfrgmh5susdvh.jpg',
+          filename: 'YelpCamp/dsjybyutfrgmh5susdvh',
         },
         {
-          url: 'https://res.cloudinary.com/dkcsp1ola/image/upload/v1635668372/YelpCamp/oqhqenorykrxeoh7napl.jpg',
-          filename: 'YelpCamp/oqhqenorykrxeoh7napl',
+          url: 'https://res.cloudinary.com/dkcsp1ola/image/upload/v1635670673/YelpCamp/oj5tegzqnvfqthmb3jyw.jpg',
+          filename: 'YelpCamp/oj5tegzqnvfqthmb3jyw',
         },
       ],
     });
