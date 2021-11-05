@@ -76,7 +76,7 @@ app.use('/campgrounds', campgroundRoutes);
 app.use('/campgrounds/:id/reviews', reviewRoutes);
 
 app.get('/', (req, res) => {
-  res.render('home');
+  res.redirect('/campgrounds');
 });
 
 // only runs if no other route is matched first
